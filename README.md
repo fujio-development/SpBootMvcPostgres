@@ -10,7 +10,7 @@
 -サーブレットエンジン：Apache Tomcat 9.0.41
 -テンプレートエンジン：Thymeleaf 3.0.12 RELEASE
 -データベース接続：PostgreSQL JDBC 4.2 Driver 42.2.18
--O/R マッパー フレームワーク：Hibernate ORM 5.4.25.Final + JPA 2.2
+-O/R マッパー フレームワーク：Hibernate ORM 5.4.27.Final + JPA 2.2
 -ログイン認証:Spring Security 5.5.0-M1
 ログイン認証：Form認証
 データベース：PostgreSQL 13.1
